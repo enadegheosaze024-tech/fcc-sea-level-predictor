@@ -1,4 +1,4 @@
-##### Sea Level Predictor 🌊📈
+### Sea Level Predictor 🌊📈
 
 ### My Final Project for the freeCodeCamp Data Analysis with Python Certification
 
